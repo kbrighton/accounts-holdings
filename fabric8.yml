@@ -1,0 +1,9 @@
+---
+buildName: "accounts-holdings"
+links:
+  Git: "https://github.com/kbrighton/accounts-holdings.git"
+  Job: "http://jenkins.f8.35.165.170.170.xip.io/job/accounts-holdings"
+  Staging: "http://10.3.0.83:80/kubernetes/pods?namespace=f8-staging"
+environments:
+  Staging: "f8-staging"
+useLocalFlow: true
